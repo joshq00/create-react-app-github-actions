@@ -1,5 +1,6 @@
 {
   "name": "rga",
+  "homepage": "https://joshq00.github.io/create-react-app-github-actions",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
