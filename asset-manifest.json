@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/create-react-app-github-actions/static/css/main.a617e044.chunk.css",
+    "main.js": "/create-react-app-github-actions/static/js/main.7b1531aa.chunk.js",
+    "main.js.map": "/create-react-app-github-actions/static/js/main.7b1531aa.chunk.js.map",
+    "runtime-main.js": "/create-react-app-github-actions/static/js/runtime-main.2b4e41b5.js",
+    "runtime-main.js.map": "/create-react-app-github-actions/static/js/runtime-main.2b4e41b5.js.map",
+    "static/js/2.a5283154.chunk.js": "/create-react-app-github-actions/static/js/2.a5283154.chunk.js",
+    "static/js/2.a5283154.chunk.js.map": "/create-react-app-github-actions/static/js/2.a5283154.chunk.js.map",
+    "static/js/3.618c037c.chunk.js": "/create-react-app-github-actions/static/js/3.618c037c.chunk.js",
+    "static/js/3.618c037c.chunk.js.map": "/create-react-app-github-actions/static/js/3.618c037c.chunk.js.map",
+    "index.html": "/create-react-app-github-actions/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/create-react-app-github-actions/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a5283154.chunk.js.LICENSE.txt": "/create-react-app-github-actions/static/js/2.a5283154.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/create-react-app-github-actions/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b4e41b5.js",
+    "static/js/2.a5283154.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.7b1531aa.chunk.js"
+  ]
+}
